@@ -1,3 +1,5 @@
+#to-do function 
+
 from rest_framework import generics, permissions
 from .serializers import TodoSerializer,TodoCompleteSerializer
 from todo.models import Todo
